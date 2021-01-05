@@ -11,5 +11,6 @@
     "npm"
   ],
   "author": "Noah Franco",
-  "license": "(ISC) MIT"
+  "license": "(ISC) MIT",
+  "homepage": "https://github.com/noahfranco/fire-wrap-package.git"
 }
